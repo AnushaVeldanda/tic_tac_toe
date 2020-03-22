@@ -1,0 +1,32 @@
+.main{
+  float: left;
+#display: inline-block;
+#margin: 0px;
+
+}
+.one{
+  height:50px;
+  width:50px;
+  border-right: solid 4px;
+  border-top: solid 4px;
+
+}
+
+.two{
+  height:50px;
+  width:50px;
+  border-right: solid 4px;
+  border-top: solid 4px;
+}
+.three{
+  height:50px;
+  width:50px;
+  border-right: solid 4px;
+    border-top: solid 4px;
+    border-bottom: solid 4px;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
